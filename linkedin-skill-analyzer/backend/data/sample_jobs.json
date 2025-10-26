@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Data Scientist",
+    "company": "Acme Analytics",
+    "location": "Remote",
+    "description": "We are looking for a Data Scientist with experience in Python, Machine Learning, Pandas, and SQL. Familiarity with statistics and model evaluation required."
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "WebWorks",
+    "location": "Budapest, Hungary",
+    "description": "Seeking a Frontend Developer skilled in JavaScript, React and CSS. Experience with responsive design and modern frontend tooling is a plus."
+  },
+  {
+    "title": "Product Manager",
+    "company": "Productify",
+    "location": "Hybrid",
+    "description": "The Product Manager will lead roadmapping, stakeholder management, and coordinate across engineering and design. Strong communication skills required."
+  }
+]

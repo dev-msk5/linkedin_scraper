@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LinkedIn Skill Analyzer — Frontend</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Skill Analyzer</h1>
+
+    <div class="controls">
+      <input id="jobTitle" type="text" placeholder="Enter job title (e.g. data analyst)" />
+      <button id="searchBtn">Search</button>
+    </div>
+
+    <section id="results">
+      <h2>Results</h2>
+      <div id="meta"></div>
+      <ul id="list" class="skill-list"></ul>
+      <div id="chart" class="chart"></div>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
